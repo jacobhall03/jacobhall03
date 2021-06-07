@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jacobhall03
+- 👀 I’m studying Aerospace Engineering at the University of Virginia
+- 🌱 I’m currently learning C++ and Git version control. 
+- 📫 Reach me by email at jacobhall03@gmail.com
