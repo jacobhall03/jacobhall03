@@ -1,4 +1,6 @@
-I'm jacobhall03. I'm studying engineering at the University of Virginia. I am currently self-learning Git version control and C++. 
+# jacobhall03 
+📚 Institution -> University of Virginia
+🚀 Field of Study -> Engineering, First-Year
 
-Here is a list of some of my projects:
+🧾 Projects:
  - Tic-Tac-Toe (currently only has code that computes various possibe game outcomes)
