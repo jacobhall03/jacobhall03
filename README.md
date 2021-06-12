@@ -3,4 +3,4 @@
 🚀 Field of Study -> Engineering, First-Year
 
 🧾 Projects:
- - Tic-Tac-Toe (currently only has code that computes various possibe game outcomes)
+ - Tic-Tac-Toe (currently only has code that computes various possible game outcomes)
