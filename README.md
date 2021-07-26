@@ -1,6 +1,6 @@
 # jacobhall03 
 📚 Institution -> University of Virginia
-🚀 Field of Study -> Engineering, First-Year
+🚀 Field of Study -> Engineering, First-Year, Class of 2025
 
 🧾 Projects:
  - Tic-Tac-Toe (June 2021)
