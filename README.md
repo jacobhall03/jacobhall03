@@ -3,4 +3,7 @@
 🚀 Field of Study -> Engineering, First-Year
 
 🧾 Projects:
- - Tic-Tac-Toe (currently only has code that computes various possible game outcomes)
+ - Tic-Tac-Toe (June 2021)
+ - Arduino Nano Testing (February 2021)
+ - Model Rocket Motor Test Stand (February 2021)
+ - Competitive Programming (November 2020)
