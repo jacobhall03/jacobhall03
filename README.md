@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob Hall
 
-I’m a Digital Signal Processing (DSP) engineer passionate about **signal processing, machine learning, and high-performance computing**.  
+I’m a Digital Signal Processing (DSP) engineer passionate about **signal processing, machine learning, embedded systems optimization, and high-performance computing**.  
 
 ---
 
