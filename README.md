@@ -8,9 +8,9 @@ I’m a Digital Signal Processing (DSP) engineer passionate about **signal proce
 
 **University of Virginia (UVA)**  
 - 🎓 **M.Eng. in Electrical Engineering**  
-  - Relevant Coursework: Digital Signal Processing & Communications, Probabilistic Machine Learning  
+  - Focal Areas: Digital Signal Processing & Communications, Probabilistic Machine Learning  
 - 🎓 **B.S. in Computer Engineering**  
-  - Relevant Coursework: Microwave Engineering, Analog Integrated Circuits, Embedded Computing  
+  - Focal Areas: Microwave Engineering, Analog Integrated Circuits, Embedded Computing  
 
 ---
 
