@@ -14,7 +14,7 @@ I’m a Digital Signal Processing (DSP) engineer passionate about **signal proce
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 - **Upcoming Full-Time**: Digital Signal Processing Engineer @ **Zeta Associates Inc.**  
 - **Internships**:  
